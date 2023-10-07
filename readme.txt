@@ -1,10 +1,13 @@
 === WP GestSup Connector ===
-Contributors: sebastienserre
+Contributors: johancoffigniez, sebastienserre
 Tags: gestsup, connector, helpdesk, ticket, support
-Donate link: https://www.paypal.me/sebastienserre
+Donate link: https://www.paypal.me/johancoffigniez
 Requires at least: 4.6
-Tested up to: 5.0
+Tested up to: 6.3.1
 Stable tag: 1.5.5
+
+Juste un fork de WP GestSup Connector de sebastienserre, avec quelques modifications pour rendre ce lugin Wordpress de nouveau utilisable sur les version 6 de Wordpress.
+Testé sur la version 6.3.1 de Wordpress, où le widget admin est de nouveau fonctionnel.
 
 WP GestSup Connector allow you to connect your WordPress Website to the helpdesk GestSup
 
