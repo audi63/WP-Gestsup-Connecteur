@@ -1,5 +1,5 @@
 === WP GestSup Connecteur ===
-Contributors: johancoffigniez, sebastienserre
+Contributors: sebastienserre, johancoffigniez
 Tags: gestsup, connector, helpdesk, ticket, support
 Donate link: https://www.paypal.me/johancoffigniez
 Requires at least: 4.6
