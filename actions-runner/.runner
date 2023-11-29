@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "PCPORTABLE-JOHA",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus11.actions.githubusercontent.com/jrTioTmbWkFvcJsa152vwUbBs6spcjrr7Z5CA02puQiNIncJ9E/",
+  "gitHubUrl": "https://github.com/audi63/WP-Gestsup-Connecteur",
+  "workFolder": "_work"
+}
